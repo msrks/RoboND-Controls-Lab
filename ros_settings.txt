@@ -1,0 +1,8 @@
+# in DroneSim_OSX.app/Contents/ros_settings.txt
+{
+	"vm-ip" : "192.168.191.128",
+	"vm-port" : 11311,
+	"vm-override" : true,
+	"host-ip": "0.0.0.0",
+	"host-override" : true
+}
